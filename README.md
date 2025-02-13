@@ -196,6 +196,7 @@ Showcase of projects that are using Tonal:
 - [Super Oscillator](https://github.com/lukehorvat/super-oscillator) by [lukehorvat](https://github.com/lukehorvat)
 - [StringScales](https://stringscales.com/) by [Ambewas](https://github.com/ambewas)
 - [Polychron](https://github.com/PolychronMidi/Polychron) by [i1li](https://github.com/i1li)
+- [Chord Progression Generator](https://girlinbluemusic.com/chord-progression-generator/) by [girlinbluemusic](https://github.com/girlinbluemusic)
 
 Thank you all!
 
